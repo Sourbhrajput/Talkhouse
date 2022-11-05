@@ -4,7 +4,7 @@ Step for run talkhouse:
 1. Download project in zip format.
 2. Extract project
 3. Download node js then install it
-4. Open project folder in any code editior (vs-code)
+4. Open project folder in any code editior (vs-code) and change .env  currenturl to http://localhost:5000
 5. In terminal, type npm install then press enter for install required modules
 6  In terminal, type npm run start then press enter for run talkhouse
 6. Open http://localhost:5000 in Browser
@@ -15,7 +15,7 @@ Step for run talkhouse:
 
 
 
-Access using Domain =>  https://talkhouse.azurewebsites.net/
+Access using Domain =>  https://talk-house.studio
 Github Repo link=>  https://github.com/Sourbhrajput/talkhouse
 My Github URL =>  https://github.com/Sourbhrajput
 
